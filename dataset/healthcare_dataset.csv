@@ -1,0 +1,16 @@
+Hospital_ID,Hospital_Name,Month,Patient_Count,Average_Wait_Time,Readmission_Rate,Cost_Per_Patient
+1,City Hospital,2024-01,120,30,5,5000
+1,City Hospital,2024-02,110,28,4.5,4800
+1,City Hospital,2024-03,130,35,5.2,5100
+2,Green Valley,2024-01,90,40,6,5200
+2,Green Valley,2024-02,95,38,5.8,5000
+2,Green Valley,2024-03,100,36,6.1,5300
+3,Lakeview Medical,2024-01,150,25,4.2,4900
+3,Lakeview Medical,2024-02,160,27,4.3,4950
+3,Lakeview Medical,2024-03,155,26,4.1,4850
+4,Riverside Clinic,2024-01,80,50,7,5500
+4,Riverside Clinic,2024-02,85,48,6.8,5400
+4,Riverside Clinic,2024-03,90,47,6.9,5450
+5,Mountain Hospital,2024-01,130,33,5.5,5100
+5,Mountain Hospital,2024-02,135,31,5.6,5050
+5,Mountain Hospital,2024-03,140,29,5.4,5000
